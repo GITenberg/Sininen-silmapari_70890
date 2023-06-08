@@ -1,0 +1,43 @@
+_repo: Sininen-silmapari_70890
+_version: 0.0.1
+alternative_title: A pair of blue eyes. Finnish
+contributor:
+  translator:
+    agent_name: Hollo, J. A. (Juho Aukusti)
+    alias: Hollo, Juho Aukusti
+    birthdate: 1885
+    deathdate: 1967
+    gutenberg_agent_id: '47352'
+    url: http://www.gutenberg.org/2009/agents/47352
+    wikipedia: https://fi.wikipedia.org/wiki/J._A._Hollo
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Hardy
+description: ''
+gutenberg_issued: '2023-06-01'
+identifiers:
+  gutenberg: '70890'
+language: fi
+pgterms:marc905: 20221125061156hardy
+pgterms:marc906: '1968'
+pgterms:marc907: FI
+production_note: Johanna Kankaanpää and Tapio Riikonen
+publication_note: '  $aFinland :$bWSOY, $c1968.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Didactic fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Wessex (England) -- Fiction'
+- !lcsh 'Separation (Psychology) -- Fiction'
+- !lcsh 'Elopement -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Sininen silmäpari
+url: http://www.gutenberg.org/ebooks/70890
